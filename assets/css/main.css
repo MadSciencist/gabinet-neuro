@@ -1382,8 +1382,8 @@ html {
 }
 
 body {
-  background: -webkit-gradient(linear, left top, left bottom, from(#120fee), to(#38a6d9));
-  background: -moz-linear-gradient(top, #120fee, #38a6d9);
+  background: -webkit-gradient(linear, left top, left bottom, from(#5590fd), to(#a5e2ff));
+  background: -moz-linear-gradient(top, #5590fd, #a5e2ff);
   background-repeat: repeat, no-repeat;
   background-size: auto, 100% 100%;
   background-attachment: fixed;
@@ -2280,6 +2280,10 @@ body.is-preload #wrapper {
 
 .padding-top-sm {
   padding-top: 1rem;
+}
+
+.margin-top-sm {
+  margin-top: 1rem;
 }
 
 .padding-bottom-sm {
