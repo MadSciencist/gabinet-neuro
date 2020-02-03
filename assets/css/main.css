@@ -2288,3 +2288,8 @@ body.is-preload #wrapper {
 .spacer {
   border-top: 1px solid gray;
 }
+
+.a-no-decorate {
+  text-decoration: none;
+  color: inherit;
+}
